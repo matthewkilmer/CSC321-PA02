@@ -1,0 +1,10 @@
+REFERENCES AND COLLABORATION NOTICE
+
+References:
+I utilized Claude AI and Google to refresh myself and learn syntax in Java so that I could apply the algorithm correctly.
+In particular, I researched how to initialize a value for infinity and how to initialize an empty array with the correct size.
+Additionally, I used those resources to understand the parameters for a method to be able to return a value (public static int, not void).
+
+
+Collaboration:
+I did not collaborate with any classmates for this assignment
